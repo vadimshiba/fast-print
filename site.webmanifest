@@ -1,0 +1,38 @@
+{
+  "name": "Fast Print",
+  "short_name": "Fast Print",
+  "description": "Полиграфия, дизайн и рекламная продукция в Астане.",
+  "lang": "ru-KZ",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "graphics"],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Написать в WhatsApp",
+      "short_name": "WhatsApp",
+      "description": "Быстро отправить заявку в Fast Print.",
+      "url": "https://wa.me/77758831277",
+      "icons": [{ "src": "assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Открыть 2ГИС",
+      "short_name": "2ГИС",
+      "description": "Построить маршрут до Fast Print.",
+      "url": "https://2gis.kz/astana/firm/70000001109861099",
+      "icons": [{ "src": "assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
