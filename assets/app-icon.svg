@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Fast Print">
-  <rect width="512" height="512" rx="96" fill="#080808"/>
-  <path d="M128 142h256v64H128z" fill="#fff"/>
-  <path d="M160 204h192v182H160z" fill="#fff"/>
-  <path d="M188 250h136v20H188z" fill="#e7e9ee"/>
-  <path d="M188 306h58v52h-58z" fill="#00a8ff"/>
-  <path d="M246 306h58v52h-58z" fill="#ff3d9a"/>
-  <circle cx="336" cy="334" r="24" fill="#ffd43b"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Fast Print" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#080808" rx="96"/><path fill="#fff" d="M128 142h256v64H128z"/><path fill="#fff" d="M160 204h192v182H160z"/><path fill="#e7e9ee" d="M188 250h136v20H188z"/><path fill="#00a8ff" d="M188 306h58v52h-58z"/><path fill="#ff3d9a" d="M246 306h58v52h-58z"/><circle cx="336" cy="334" r="24" fill="#ffd43b"/></svg>
